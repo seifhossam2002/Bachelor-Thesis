@@ -8,6 +8,10 @@ It is made up of two modules as shown in the below Figure . First, Rule Mining a
 
 ## Usage
 
+### Putting the Dataset and AMIE model
+
+To put the datasets you must upload the datasets in the file directory and download the jar file from the [Dig-team repository](https://github.com/dig-team/amie) and add it as well in your file directory.
+
 ### Adjusting Hyperparameters
 
 To customize the behavior of the model, you can adjust hyperparameters in the ARGS (arguments) code. Here's how you can do it:
